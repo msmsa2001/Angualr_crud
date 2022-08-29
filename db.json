@@ -1,0 +1,122 @@
+{
+  "productList": [
+    {
+      "productName": "Apple one",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 160,
+      "comment": "this is a fresh apple one",
+      "date": "2022-07-17T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 120,
+      "comment": "this is Fresh Mongo",
+      "date": "2022-07-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 30000,
+      "comment": "good laptop",
+      "date": "2022-07-20T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "this is Fresh Orange",
+      "date": "2022-07-17T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Mobile",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 34000,
+      "comment": "this sumsang tab 4 mobile ",
+      "date": "2022-07-11T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "watch",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 345,
+      "comment": "dfjjd",
+      "date": "2022-07-16T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "abc",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 123,
+      "comment": "fefrf",
+      "date": "2022-07-17T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "as",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 23,
+      "comment": "sa",
+      "date": "2022-07-04T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "xyz",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 34,
+      "comment": "fr",
+      "date": "2022-07-18T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "pqr",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 43,
+      "comment": "test",
+      "date": "2022-07-11T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "test",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 45,
+      "comment": "this is test",
+      "date": "2022-07-17T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "test",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1,
+      "comment": "test",
+      "date": "2022-07-16T18:30:00.000Z",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
